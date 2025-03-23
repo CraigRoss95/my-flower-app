@@ -46,7 +46,7 @@ termcolor
 threadpoolctl
 typing_extensions
 urllib3
-Werkzeug
+Werkzeug==0.16.1
 wincertstore
 wrapt
 WTForms
